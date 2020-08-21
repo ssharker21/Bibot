@@ -8,11 +8,12 @@ This is a simple bot. The primary feature is returning "Morbleu!" when someone i
 
 # Prerequisites
 
-* You must have [NodeJS](https://nodejs.org/en/download/) installed. To install NodeJS, go [here](http://lmgtfy.com/?q=how+to+install+nodejs).
+* You must have [NodeJS](https://nodejs.org/en/download/) installed.
 
 # Setup
 
-* To install dependencies: `npm install`
+* To install dependencies: open a command prompt/terminal where you downloaded these files and run `npm install`.
+* Get a Discord bot token and put it into auth.json.
 
 # Running the Bot
 
